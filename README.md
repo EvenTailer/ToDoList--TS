@@ -60,7 +60,7 @@ npm start
 Then open http://localhost:3000 in your browser.
 
 📸 Screenshots
-| ToDoList | [!ToDoList](screenshots/todolist.png) |
+| ToDoList | ![ToDoList App](./screenshots/todolist.png) |
 
 text
 Paste your screenshot here
