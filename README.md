@@ -38,7 +38,7 @@ This approach provides:
 ## 🚀 Live Demo
 
 [GitHub Pages Link]  
-*(replace with: https://github.com/EvenTailer/ToDoList--TS.git)*
+https://eventailer.github.io/ToDoList--TS/
 
 ## 🖥 Local Development
 
@@ -60,7 +60,7 @@ npm start
 Then open http://localhost:3000 in your browser.
 
 📸 Screenshots
-| ToDoList | ![ToDoList App](./screenshots/todolist.png) |
+| ToDoList | ![ToDoList App](https://raw.githubusercontent.com/EvenTailer/ToDoList--TS/main/screenshots/todolist.png) |
 
 🔮 Future Improvements
 Edit task text
