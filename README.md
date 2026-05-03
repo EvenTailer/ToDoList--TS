@@ -62,8 +62,6 @@ Then open http://localhost:3000 in your browser.
 📸 Screenshots
 | ToDoList | ![ToDoList App](./screenshots/todolist.png) |
 
-text
-Paste your screenshot here
 🔮 Future Improvements
 Edit task text
 
