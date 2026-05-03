@@ -59,10 +59,10 @@ npx tsc
 npm start
 Then open http://localhost:3000 in your browser.
 
-📸 Screenshots
+## 📸 Screenshots
 | ToDoList |
 |----------------|
-|![TodoList App](./screenshots/todolist-final.png)|
+|![TodoList](screenshots/todolist-final.png)|
 
 🔮 Future Improvements
 Edit task text
