@@ -60,7 +60,9 @@ npm start
 Then open http://localhost:3000 in your browser.
 
 📸 Screenshots
-|ToDoList|![ToDoList App](https://raw.githubusercontent.com/EvenTailer/ToDoList--TS/main/screenshots/todolist.png)|
+| ToDoList |
+|----------------|
+|![TodoList App](./screenshots/todolist-final.png)|
 
 🔮 Future Improvements
 Edit task text
